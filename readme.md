@@ -1,7 +1,7 @@
 # Darwin World
 
 This project has been made as project for Objective Programming conducted at AGH UST.  
-Full project description is polish (taken from https://github.com/apohllo/obiektowe-lab) can be found in requirements.
+Full project description in polish (taken from https://github.com/apohllo/obiektowe-lab) can be found in requirements.
 
 ![Demo](demo/demo.gif)
 
