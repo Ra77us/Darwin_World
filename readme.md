@@ -40,7 +40,7 @@ that those sneaky creatures hide behind stronger friends ;)
 
 ## Warning: parameters file should be located in the same directory as src.
 
-The following libraries are being usded:
+The following libraries are being used:
 
 junit:junit:4.13.1
 
